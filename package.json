@@ -1,0 +1,17 @@
+{
+    "name": "dot-qa-mobile-template",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "test": "codeceptjs run --steps"
+    },
+    "devDependencies": {
+        "@codeceptjs/configure": "^1.0.2",
+        "appium": "^2.16.2",
+        "appium-doctor": "^1.16.2",
+        "appium-uiautomator2-driver": "^4.0.2",
+        "codeceptjs": "^3.7.2",
+        "webdriverio": "^8.6.3"
+    },
+    "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
