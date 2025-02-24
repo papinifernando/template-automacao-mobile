@@ -119,12 +119,6 @@ Para rodar os testes, utilize o comando:
 npx codeceptjs run
 ```
 
-Caso deseje rodar os testes no modo interativo:
-
-```sh
-npx codeceptjs shell
-```
-
 Para executar um teste específico:
 
 ```sh
